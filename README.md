@@ -2,7 +2,7 @@
 
 ###
 ###
-<p align="left">I'm Walid D Boulhit</p>
+<p align="left">I'm Walid</p>
 <h3 align="left">An ardent AI enthusiast and front-end developer from Morocco</h3>
 
 ###
